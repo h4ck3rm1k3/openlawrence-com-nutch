@@ -1,0 +1,1 @@
+JAVA_HOME=/usr/lib/jvm/java-1.6.0 bin/nutch crawl urls  -dir crawl -depth 30 -topN 500
