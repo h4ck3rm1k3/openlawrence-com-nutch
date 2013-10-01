@@ -70,11 +70,16 @@
 </regex>
 
 <!-- remove spaces 
-     http://mail-archives.apache.org/mod_mbox/nutch-user/201202.mbox/%3CCAFCG46wJfaHNvyn0nwiDuyvzGXoPsQ+_ryw+ZSczF7icNvBF2g@mail.gmail.com%3E
+     http://mail-archives.apache.org/mod_mbox/nutch-user/201202.mbox/%3CCAFCG46wJfaHNvyn0nwiDuyvzGXoPsQ+_ryw+ZSczF7icNvBF2g@mail.
 -->
 
  <regex>
  <pattern>&#x20;</pattern>
+ <substitution>%20</substitution>
+</regex>
+
+ <regex>
+ <pattern>\s</pattern>
  <substitution>%20</substitution>
 </regex>
 
