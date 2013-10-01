@@ -10,7 +10,11 @@
 </property>
 <property>
     <name>plugin.includes</name>
-    <value>protocol-http|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    <value>protocol-httpclient|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    <!--
+       see here, replace http with httpclient 
+       https://wiki.apache.org/nutch/HttpAuthenticationSchemes
+      -->
 </property>
 
 
