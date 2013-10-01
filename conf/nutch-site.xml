@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+<property>
+ <name>http.agent.name</name>
+ <value>OpenLawrence.com Nutch Spider</value>
+</property>
+<property>
+    <name>plugin.includes</name>
+    <value>protocol-http|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+
+
+<property>
+<name>http.robots.agents</name>
+<value>OpenLawrence.com Nutch Spider,*</value>
+<description>The agent strings we'll look for in robots.txt files,
+comma-separated, in decreasing order of precedence. You should
+put the value of http.agent.name as the first agent name, and keep the
+default * at the end of the list. E.g.: BlurflDev,Blurfl,*
+</description>
+</property>
+
+
+
+<property>
+  <name>http.robots.403.allow</name>
+  <value>true</value>
+  <description>Some servers return HTTP status 403 (Forbidden) if
+  /robots.txt doesn't exist. This should probably mean that we are
+  allowed to crawl the site nonetheless. If this is set to false,
+  then such sites will be treated as forbidden.</description>
+</property>
+
+<property>
+  <name>http.agent.description</name>
+  <value>Spidering lawrence kansas </value>
+  <description>Further description of our bot</description>
+</property>
+
+<property>
+  <name>http.agent.url</name>
+  <value>www.openlawrence.com</value>
+  <description>A URL to advertise in the User-Agent header.</description>
+</property>
+
+<property>
+  <name>http.agent.email</name>
+  <value>JamesMikeDuPont+OpenLawrence@gmail.com</value>
+  <description>An email address to advertise in the HTTP 'From' request
+   header and User-Agent header. A good practice is to mangle this
+   address (e.g. 'info at example dot com') to avoid spamming.
+  </description>
+</property>
+
+<property>
+  <name>http.agent.version</name>
+  <value>0.0.0.0.0.0.1</value>
+  <description>A version string to advertise in the User-Agent
+   header.</description>
+</property>
+
+<property>
+  <name>http.agent.host</name>
+  <value>openlawrence.com</value>
+  <description>Name or IP address of the host on which the Nutch crawler
+  would be running.</description>
+</property>
+
+<property>
+  <name>http.timeout</name>
+  <value>10000</value>
+  <description>The default network timeout, in milliseconds.</description>
+</property>
+
+<property>
+  <name>http.max.delays</name>
+  <value>100</value>
+  <description>The number of times a thread will delay when trying to
+  fetch a page.</description>
+</property>
+
+<property>
+  <name>generate.max.count</name>
+  <value>1000</value>
+  <description>The maximum number of urls in a single
+  fetchlist.  -1 if unlimited. The urls are counted according
+  to the value of the parameter generator.count.mode.
+  </description>
+</property>
+
+<property>
+  <name>fetcher.store.content</name>
+  <value>true</value>
+  <description>If true, fetcher will store content.</description>
+</property>
+
+</configuration>
