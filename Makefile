@@ -35,8 +35,30 @@ crawl1 :
 	JAVA_HOME=/usr/lib/jvm/java-1.6.0/  nohup bin/nutch crawl urls -dir crawl -depth 3 -topN 50  
 
 SEGMENTS=$(wildcard  /home/mdupont/experiments/nutch/runtime/local/crawl/segments/*)
-parseall: $(SEGMENTS)
-.PHONY :force
-$(SEGMENTS) :force
-#	JAVA_HOME=/usr/lib/jvm/java-1.6.0/ bin/nutch parse $@
-	JAVA_HOME=/usr/lib/jvm/java-1.6.0/  bin/nutch updatedb updated-db $@
+#parseall: $(SEGMENTS)
+#.PHONY :force
+#$(SEGMENTS) :force
+#	JAVA_HOME=/usr/lib/jvm/java-1.6.0/  bin/nutch updatedb updated-db $@
+
+
+mergeall : $(SEGMENTS)
+	JAVA_HOME=/usr/lib/jvm/java-1.6.0/  bin/nutch mergesegs merged-segment $(SEGMENTS)
+
+
+parseall :
+	JAVA_HOME=/usr/lib/jvm/java-1.6.0/ bin/nutch parse merged-segment/20131002173704
+
+updatedb:
+
+	JAVA_HOME=/usr/lib/jvm/java-1.6.0/  bin/nutch updatedb updated-db merged-segment/20131002173704
+
+
+dumpall :
+	JAVA_HOME=/usr/lib/jvm/java-1.6.0/ bin/nutch readseg -dump merged-segment/20131002173704 outputdir2 -nocontent -nofetch - nogenerate -noparse -noparsetext
+
+
+
+# crawl the merged because it only has crawl-generate in it:
+fetchmerged :
+	JAVA_HOME=/usr/lib/jvm/java-1.6.0/	 bin/nutch fetch /home/mdupont/nutch/merged-segment/20131002173704
+
