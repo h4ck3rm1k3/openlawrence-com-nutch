@@ -10,7 +10,7 @@
 </property>
 <property>
     <name>plugin.includes</name>
-    <value>protocol-httpclient|urlfilter-domain|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    <value>protocol-httpclient|urlfilter-domain|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
     <!--
        see here, replace http with httpclient 
        https://wiki.apache.org/nutch/HttpAuthenticationSchemes
@@ -78,6 +78,10 @@ default * at the end of the list. E.g.: BlurflDev,Blurfl,*
   <name>http.timeout</name>
   <value>10000</value>
   <description>The default network timeout, in milliseconds.</description>
+</property>
+
+<property> <name>generate.max.per.host</name>
+<value>100000</value>
 </property>
 
 <property>
