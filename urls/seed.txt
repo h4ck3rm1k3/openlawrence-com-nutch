@@ -1,1 +1,13 @@
-http://www.searchlawrence.com
+http://www.lawrencechamber.com
+http://www.lawrencechamber.com/CWT/External/wcpages/SiteMap/
+http://www.lawrencechamber.com/cwt/external/wcpages/about/board.aspx
+http://www.lawrencechamber.com/CWT/External/wcpages/WCDirectory/Directory.aspx?&action=catlist&adkeyword=categorylist
+http://www.lawrencechamber.com/CWT/External/wcpages/WCDirectory/Directory.aspx?CategoryID=2&Title=ACCOUNTING++and++TAX+SERVICES&AdKeyword=ACCOUNTING++and++TAX+SERVICES
+http://www.lawrencechamber.com/CWT/EXTERNAL/wcpages/WCDIRECTORY/directory.aspx?ACTION=newmembers
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=a
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=e
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=i
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=o
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=u
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=y
+http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/Directory.aspx?Category=1

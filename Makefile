@@ -2,7 +2,7 @@ export JAVA_HOME=/usr/lib/jvm/java-1.6.0
 NUTCH=../local/bin/nutch
 
 crawl:
-	$(NUTCH) crawl urls  -dir crawl -depth 3 -topN 1000000
+	$(NUTCH) crawl urls  -dir crawl -depth 1 -topN 1000000
 
 index: 
 	$(NUTCH) solrindex http://www.openlawrence.com:8983/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
