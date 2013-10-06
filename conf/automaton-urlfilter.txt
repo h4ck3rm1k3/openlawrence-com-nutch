@@ -32,4 +32,4 @@
 -.*[?*!@=].*
 
 # accept anything else
-+.*
++.*lawrence.*
