@@ -15,3 +15,6 @@ $(SEGMENTS) :force
 
 invert:
 	$(NUTCH) invertlinks crawl/linkdb -dir crawl/segments
+
+dump:
+	$(NUTCH)  readlinkdb crawl/linkdb -dump dump
