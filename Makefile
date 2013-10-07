@@ -15,6 +15,7 @@ SEGMENTS=$(wildcard  /home/mdupont/experiments/nutch/runtime/local/crawl/segment
 updatedb: $(SEGMENTS)
 .PHONY :force
 $(SEGMENTS) :force
+	  bin/nutch parse $@
 	  bin/nutch updatedb updated-db $@
 
 invert:
