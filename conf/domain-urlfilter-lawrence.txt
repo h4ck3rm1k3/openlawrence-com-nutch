@@ -1,35 +1,40 @@
-# Licensed to the Apache Software Foundation (ASF) under one or more
-# contributor license agreements.  See the NOTICE file distributed with
-# this work for additional information regarding copyright ownership.
-# The ASF licenses this file to You under the Apache License, Version 2.0
-# (the "License"); you may not use this file except in compliance with
-# the License.  You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-# config file for urlfilter-domain plugin
-1863lawrence.com
-1inchrist.org
 6lawrence.com
-abslawyer.com
-aceplumbingkansas.com
-adastrafarm.com
 affinitywebdesign.com
 afs.ku.edu
 amyklamet.com
-anglersseafood.com
-animaloutreach-ks.org
 anthropology.ku.edu
-apartmentdirectory.com
-arc.ku.edu
 archaeology.biodiversity.ku.edu
 artrealmclique.com
+completedoula.com
+douglascolawlibrary.org
+glencat1969.tripod.com
+groups.ku.edu
+kuphideltaphi.tripod.com
+kuthetachi.org
+kutriangle.com
+larryville.com
+lawrencehomesforsale.com
+lawrenceks.org
+markhess.home.mindspring.com
+naturalhistory.ku.edu
+pack514ga.freeservers.com
+peace.ks.us.mennonite.net
+people.ku.edu
+sunflower.com
+teachers.usd497.org
+troop59-lawrence.org
+ku.edu
+1863lawrence.com
+1inchrist.org
+kusports.com
+ljworld.com
+abslawyer.com
+aceplumbingkansas.com
+adastrafarm.com
+anglersseafood.com
+animaloutreach-ks.org
+apartmentdirectory.com
+arc.ku.edu
 asiteforthelord.com
 basehorinfo.com
 berkowitzlawofficeks.com
@@ -43,7 +48,6 @@ cgruber.com
 circlesranch.com
 clublambpage.com
 communitymercantile.com
-completedoula.com
 crownautomotive.com
 daileyimages.com
 davidalexanderphotography.com
@@ -51,7 +55,6 @@ davidloewenstein.com
 dfmphotography.com
 dgbar.org
 dhumc.com
-douglascolawlibrary.org
 ecologicalarch.com
 english.ku.edu
 eternalsecond.com
@@ -66,9 +69,7 @@ freestateflyfishers.org
 gagemgmt.com
 geo.ku.edu
 gillilandandhayes.com
-glencat1969.tripod.com
 glorydayspizza.com
-groups.ku.edu
 haskell.edu
 hatfieldappraisals.com
 hedgesrealestate.com
@@ -90,35 +91,26 @@ kawvalley.net
 kayhufflaw.com
 kciroadrunner.com
 kennedydrivered.com
-ku.edu
-ku.edu
 kuchurch.com
 kucu.org
+ku.edu
 kuinfo.lib.ku.edu
 kulua.org
-kuphideltaphi.tripod.com
-kusports.com
 kutheta.com
-kuthetachi.org
-kutriangle.com
 lairdnollerautomotive.com
 larryville.com
 lasl.org
-lawrence.com
-lawrence.lib.ks.us
 lawrenceartguild.org
-lawrenceartscenter.org
+lawrenceartguild.org 
+lawrenceartscenter.com
 lawrencebrewers.org
-lawrencechamber.com
 lawrencecityband.com
+lawrence.com
 lawrencecommunitynews.com
-lawrencefreenet.org
 lawrencehall.org
-lawrencehomesforsale.com
 lawrencehumane.org
-lawrencekids.net
 lawrenceks.org
-lawrenceks.org
+lawrence.lib.ks.us
 lawrencemasons.com
 lawrencephotoalliance.org
 lawrencerock.com
@@ -132,11 +124,9 @@ lfmchurch.org
 lhba.net
 libertyhall.net
 ljworld.com
-ljworld.com
 lmb.co.uk
 lmh.org
 mafrentals.com
-markhess.home.mindspring.com
 mattneedham.com
 mccolldesign.com
 medchem.ku.edu
@@ -146,13 +136,9 @@ millermeiers.com
 millerpest.com
 mysticcircle685.org
 naturalbreeze.com
-naturalhistory.ku.edu
 owensflowershop.net
 pachamamas.com
-pack514ga.freeservers.com
 pcitraining.edu
-peace.ks.us.mennonite.net
-people.ku.edu
 philosophy.ku.edu
 photogenicphotography.net
 pipelineproductions.com
@@ -165,11 +151,9 @@ saintmargaret.org
 searchlawrence.com
 sociology.ku.edu
 southsidecofc.net
-st-lawrence.org
 stlawrencechurch.org
+st-lawrence.org
 streetphoto.com
-sunflower.com
-teachers.usd497.org
 theappleseedcast.com
 theatrelawrence.com
 theeyedoctors.net
@@ -177,7 +161,6 @@ thegranada.com
 thehalcyonhouse.com
 thelawrencechurchofchrist.org
 tlclawrence.org
-troop59-lawrence.org
 unbank.com
 unityoflawrence.org
 universityphoto.com
@@ -189,5 +172,3 @@ warrenmcelwain.com
 watkinsmuseum.org
 waxmancandles.com
 wheatfieldsbakery.com
-wickedbroadband.blogspot.com
-wickedfiber.com

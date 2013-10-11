@@ -1,12 +1,11 @@
 
 export JAVA_HOME=/usr/lib/jvm/java-1.6.0
-NUTCH=../local/bin/nutch
+NUTCH=.//bin/nutch 
 
 crawl:
-	$(NUTCH) crawl urls  -dir crawl -depth 3 -topN 1000000
+#	$(NUTCH) crawl urls -solr http://www.openlawrence.com:8983/solr/ -dir crawl -depth 10 -topN 1000000 -linkdb crawl/linkdb
+	NUTCH_OPTS=-Xmx2048m $(NUTCH) crawl urls  -dir crawl -depth 2 -topN 1000
 
-index: 
-	$(NUTCH) solrindex http://www.openlawrence.com:8983/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
 
 SEGMENTS=$(wildcard  /home/mdupont/experiments/nutch/runtime/local/crawl/segments/*)
 updatedb: $(SEGMENTS)
@@ -17,5 +16,10 @@ $(SEGMENTS) :force
 invert:
 	$(NUTCH) invertlinks crawl/linkdb -dir crawl/segments
 
+
 dump:
 	$(NUTCH)  readlinkdb crawl/linkdb -dump dump
+
+index: 
+	$(NUTCH) solrindex http://www.openlawrence.com:8983/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
+
