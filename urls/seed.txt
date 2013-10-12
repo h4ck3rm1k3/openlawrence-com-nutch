@@ -20,8 +20,10 @@ http://computation.llnl.gov/icc
 http://computation.llnl.gov/rss.xml
 http://dhumc.com/site/feed/
 http://douglascolawlibrary.org
+http://douglascountydems.org/
 http://finalfridayslawrence.wordpress.com
 http://finalfridayslawrence.wordpress.com/feed/
+http://freepages.history.rootsweb.ancestry.com/~ugrradgckansas/index.htm
 http://freestateflyfishers.org/feed/
 http://freewebs.com/kscrew2052
 http://garmin.com
@@ -40,14 +42,12 @@ http://kuphideltaphi.tripod.com/index.html
 http://kuthetachi.org
 http://kutriangle.com
 http://larryville.com
-http://lawrenceartscenter.org
-http://lawrencehomesforsale.com
-http://lawrencekids.net
 http://larryvillechronicles.blogspot.com
 http://lawrenceartscenter.org
 http://lawrenceartscenter.org/comments/feed/
 http://lawrencebrewers.org/wp/?feed=rss2
 http://lawrencecommunitynews.com/geeklog-1.7.2/public_html/backend/lcn_rss2_0.xml
+http://lawrencehomesforsale.com
 http://lawrencehomesforsale.com
 http://lawrencekids.net
 http://lawrencekids.net/comments/feed/
@@ -66,9 +66,12 @@ http://naturalhistory.ku.edu/rss.xml
 http://pack514ga.freeservers.com
 http://peace.ks.us.mennonite.net
 http://people.ku.edu/~jbrown/bugs.html
+http://politicalgraveyard.com/geo/KS/DO.html#CEM
 http://prairiemoon.org/?feed=rss2
 http://propylon.com
 http://runlawrence.org
+http://skyways.lib.ks.us/genweb/douglas/index.html
+http://skyways.lib.ks.us/kansas/counties/DG/index.html
 http://streetphoto.com/feed/
 http://sunflower.com/~lahn
 http://sunlitest.com
@@ -77,7 +80,6 @@ http://thegranada.com/home/feed/
 http://troop59-lawrence.org
 http://vakser.bioinformatics.ku.edu/resources/gramm
 http://web.nhm.ku.edu
-http://wickedbroadband.blogspot.com
 http://wellcommons.com/
 http://wickedbroadband.blogspot.com
 http://wickedbroadband.blogspot.com/feeds/posts/default
@@ -150,6 +152,7 @@ http://www.basehorinfo.com
 http://www.basehorinfo.com/rss/headlines/
 http://www.berkowitzlawofficeks.com
 http://www.bertnash.org
+http://www.bertnash.org/
 http://www.brandonwoods.com
 http://www.brew23.com
 http://www.britsusa.com
@@ -170,9 +173,11 @@ http://www.davidalexanderphotography.com
 http://www.davidloewenstein.com
 http://www.dfmphotography.com
 http://www.dgbar.org
+http://www.dgcountyfair.com/
 http://www.dgso.org
 http://www.dgso.org/web/index.php?option=com_wrapper&view=wrapper&Itemid=227
 http://www.dhumc.com
+http://www.douglas-county.com/
 http://www.ecologicalarch.com
 http://www.english.ku.edu
 http://www.eternalsecond.com
@@ -201,6 +206,7 @@ http://www.hitecollision.com/feed
 http://www.hongmark.com/wushu/chmoving
 http://www.hongmark.com/wushu/index.xml
 http://www.insightphoto.net
+http://www.ipsr.ku.edu/
 http://www.ittc.ku.edu
 http://www.ittc.ku.edu/rss/
 http://www.ittc.ku.edu/~evans/aviation/klwc
@@ -212,8 +218,8 @@ http://www.jchap.com
 http://www.kanren.net
 http://www.kanren.net/index.php?format=feed&type=rss
 http://www.kansan.com
-http://www.kansaskiaikido.org
 http://www.kansas-truckingaccident-lawyers.com
+http://www.kansaskiaikido.org
 http://www.kansaszencenter.org
 http://www.kawvalley.net
 http://www.kayhufflaw.com
@@ -496,4 +502,3 @@ http://www2.kusports.com/news/football
 http://www2.kusports.com/rss/headlines/
 http://www2.ljworld.com
 http://www2.ljworld.com/rss/headlines/news/
-
