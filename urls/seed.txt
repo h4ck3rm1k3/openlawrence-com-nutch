@@ -445,6 +445,8 @@ http://www.mhutch.com
 http://www.midwestburners.com
 http://www.millermeiers.com/stanherd
 http://www.millerpest.com
+http://www.mrsmass.com/
+http://www.mrsmass.com/feed/
 http://www.mysticcircle685.org
 http://www.naturalbreeze.com
 http://www.news.ku.edu/headlines.xml
