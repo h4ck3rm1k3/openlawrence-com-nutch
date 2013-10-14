@@ -20,8 +20,10 @@ http://computation.llnl.gov/icc
 http://computation.llnl.gov/rss.xml
 http://dhumc.com/site/feed/
 http://douglascolawlibrary.org
+http://douglascountydems.org/
 http://finalfridayslawrence.wordpress.com
 http://finalfridayslawrence.wordpress.com/feed/
+http://freepages.history.rootsweb.ancestry.com/~ugrradgckansas/index.htm
 http://freestateflyfishers.org/feed/
 http://freestatestudios.com 
 http://freewebs.com/kscrew2052
@@ -47,6 +49,7 @@ http://lawrenceartscenter.org/comments/feed/
 http://lawrencebrewers.org/wp/?feed=rss2
 http://lawrencecommunitynews.com/geeklog-1.7.2/public_html/backend/lcn_rss2_0.xml
 http://lawrencehomesforsale.com
+http://lawrencehomesforsale.com
 http://lawrencekids.net
 http://lawrencekids.net/comments/feed/
 http://lawrenceks.org
@@ -64,10 +67,13 @@ http://naturalhistory.ku.edu/rss.xml
 http://pack514ga.freeservers.com
 http://peace.ks.us.mennonite.net
 http://people.ku.edu/~jbrown/bugs.html
+http://politicalgraveyard.com/geo/KS/DO.html#CEM
 http://prairiemoon.org/?feed=rss2
 http://primatazza.com/
 http://propylon.com
 http://runlawrence.org
+http://skyways.lib.ks.us/genweb/douglas/index.html
+http://skyways.lib.ks.us/kansas/counties/DG/index.html
 http://streetphoto.com/feed/
 http://sunflower.com/~lahn
 http://sunlitest.com
@@ -135,8 +141,10 @@ http://www.1863lawrence.com/tweets/sallieyoung1863.html
 http://www.1inchrist.org
 http://www.1inchrist.org/rss.xml
 http://www.abslawyer.com
+http://www.accuweather.com/forecast.asp?zipcode=66044
 http://www.aceplumbingkansas.com
 http://www.adastrafarm.com
+http://www.angelfire.com/ks/larrycarter/MGB/Index.html
 http://www.anglersseafood.com
 http://www.animaloutreach-ks.org
 http://www.apartmentdirectory.com
@@ -146,6 +154,7 @@ http://www.basehorinfo.com
 http://www.basehorinfo.com/rss/headlines/
 http://www.berkowitzlawofficeks.com
 http://www.bertnash.org
+http://www.bertnash.org/
 http://www.brandonwoods.com
 http://www.brew23.com
 http://www.britsusa.com
@@ -166,9 +175,11 @@ http://www.davidalexanderphotography.com
 http://www.davidloewenstein.com
 http://www.dfmphotography.com
 http://www.dgbar.org
-http://www.dgso.org/
+http://www.dgcountyfair.com/
+http://www.dgso.org
 http://www.dgso.org/web/index.php?option=com_wrapper&view=wrapper&Itemid=227
 http://www.dhumc.com
+http://www.douglas-county.com/
 http://www.ecologicalarch.com
 http://www.english.ku.edu
 http://www.eternalsecond.com
@@ -197,6 +208,7 @@ http://www.hitecollision.com/feed
 http://www.hongmark.com/wushu/chmoving
 http://www.hongmark.com/wushu/index.xml
 http://www.insightphoto.net
+http://www.ipsr.ku.edu/
 http://www.ittc.ku.edu
 http://www.ittc.ku.edu/rss/
 http://www.ittc.ku.edu/~evans/aviation/klwc
@@ -208,6 +220,7 @@ http://www.jchap.com
 http://www.kanren.net
 http://www.kanren.net/index.php?format=feed&type=rss
 http://www.kansan.com
+http://www.kansas-truckingaccident-lawyers.com
 http://www.kansaskiaikido.org
 http://www.kansaszencenter.org
 http://www.kawvalley.net
