@@ -1,5 +1,10 @@
 
 export JAVA_HOME=/usr/lib/jvm/java-1.6.0
+
+import :
+	keytool -keypass changeit   -import -alias openlawrence.com -keystore $JAVA_HOME/jre/lib/security/cacerts 
+#	 keytool -import -alias openlawrence.com -keystore $JAVA_HOME/jre/lib/security/cacerts
+
 NUTCH=.//bin/nutch 
 
 crawl:
@@ -21,5 +26,5 @@ dump:
 	$(NUTCH)  readlinkdb crawl/linkdb -dump dump
 
 index: 
-	$(NUTCH) solrindex http://www.openlawrence.com:8983/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
+	$(NUTCH) solrindex https://www.openlawrence.com/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
 
