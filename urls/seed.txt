@@ -12,6 +12,7 @@ http://argentaglobal.com
 http://artrealmclique.com
 http://assurant.com
 http://bgp.he.net/dns/lrtc.biz#_whois
+http://billself.com/
 http://bright-ehr.com
 http://btbcku.com
 http://chemistry.drupal.ku.edu/event/45463
@@ -47,6 +48,7 @@ http://larryvillechronicles.blogspot.com
 http://lawrenceartscenter.org
 http://lawrenceartscenter.org/comments/feed/
 http://lawrencebrewers.org/wp/?feed=rss2
+http://lawrencechristmasparade.org/
 http://lawrencecommunitynews.com/geeklog-1.7.2/public_html/backend/lcn_rss2_0.xml
 http://lawrencehomesforsale.com
 http://lawrencehomesforsale.com
@@ -71,6 +73,7 @@ http://politicalgraveyard.com/geo/KS/DO.html#CEM
 http://prairiemoon.org/?feed=rss2
 http://primatazza.com/
 http://propylon.com
+http://rathausartprojects.com
 http://runlawrence.org
 http://skyways.lib.ks.us/genweb/douglas/index.html
 http://skyways.lib.ks.us/kansas/counties/DG/index.html
@@ -194,6 +197,7 @@ http://www.freestatebrewing.com
 http://www.freestateflyfishers.org
 http://www.gagemgmt.com
 http://www.gagemgmt.com/feed/
+http://www.gcsaa.org
 http://www.geo.ku.edu
 http://www.gillilandandhayes.com
 http://www.glorydayspizza.com
@@ -233,6 +237,7 @@ http://www.ku.edu/~afs
 http://www.ku.edu/~kuclinic
 http://www.ku.edu/~kucr
 http://www.ku.edu/~sigmachi
+http://www.kuathletics.com/
 http://www.kuchurch.com
 http://www.kucu.org
 http://www.kuinfo.lib.ku.edu
@@ -243,6 +248,7 @@ http://www.larryville.com
 http://www.lasl.org
 http://www.lasl.org/Feeds/News/?org=lasl.org
 http://www.lawrence.com
+http://www.lawrence.com/turnpike/
 http://www.lawrence.lib.ks.us
 http://www.lawrenceartguild.org
 http://www.lawrenceartguild.org/rss.xml
@@ -413,6 +419,7 @@ http://www.lawrencechamber.com/CWT/External/wcpages/WCDirectory/Directory.aspx?C
 http://www.lawrencechamber.com/cwt/external/wcpages/about/board.aspx
 http://www.lawrencecityband.com/lcb
 http://www.lawrencecommunitynews.com
+http://www.lawrencedeals.com/‎
 http://www.lawrencefreenet.org
 http://www.lawrencehall.org
 http://www.lawrencehall.org/rss.xml
@@ -460,9 +467,11 @@ http://www.photogenicphotography.net
 http://www.pipelineproductions.com
 http://www.pointbdance.com
 http://www.prairiemoon.org
+http://www.raymondowen.com/
 http://www.reitzlaw.com
 http://www.rilinglaw.com
 http://www.rilinglaw.com/comments/feed/
+http://www.rodewayinn.com/hotel-lawrence-kansas-KS018
 http://www.saint-johns.net
 http://www.saint-johns.net/feed/
 http://www.saintmargaret.org
@@ -473,9 +482,11 @@ http://www.senoreality.com/
 http://www.skyways.org/orgs/jayhawkaudubon
 http://www.sociology.ku.edu
 http://www.southsidecofc.net
+http://www.spanishschoolop.com/
 http://www.st-lawrence.org/
 http://www.stlawrencechurch.org
 http://www.streetphoto.com
+http://www.supernaturalwiki.com/index.php?title=Lawrence,_Kansas
 http://www.theappleseedcast.com
 http://www.theatrelawrence.com
 http://www.theeyedoctors.net
@@ -505,16 +516,5 @@ http://www.yosa.com
 http://www2.kusports.com/news/football
 http://www2.kusports.com/rss/headlines/
 http://www2.ljworld.com
-http://www2.ljworld.com/rss/headlines/news/
-http://www.supernaturalwiki.com/index.php?title=Lawrence,_Kansas
-http://www.spanishschoolop.com/
-http://www.rodewayinn.com/hotel-lawrence-kansas-KS018
-http://www.gcsaa.org
-http://rathausartprojects.com
-http://www.raymondowen.com/
-http://www.lawrence.com/turnpike/
-http://www.lawrencedeals.com/‎
 http://www2.ljworld.com/marketplace/
-http://billself.com/
-http://www.kuathletics.com/
-http://lawrencechristmasparade.org/
+http://www2.ljworld.com/rss/headlines/news/
