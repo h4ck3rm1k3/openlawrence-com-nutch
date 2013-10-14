@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
+<!DOCTYPE configuration [
+<!ENTITY secrets SYSTEM "secrets.xml">
+]>
 <?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
-
 <!-- Put site-specific property overrides in this file. -->
-
 <configuration>
 <property>
  <name>http.agent.name</name>
@@ -105,5 +106,31 @@ default * at the end of the list. E.g.: BlurflDev,Blurfl,*
   <value>true</value>
   <description>If true, fetcher will store content.</description>
 </property>
+
+
+<property>
+  <name>solr.server.url</name>
+  <value>https://www.openlawrence.com/solr/</value>
+</property>
+
+
+<property>
+  <name>solr.auth</name>
+  <value>true</value>
+</property>
+
+<!--
+   secrets being read in, but not checked in
+ -->
+&secrets;
+
+<!-- <property> -->
+<!--   <name>solr.auth.username</name> -->
+<!--   <value>HIDDEN</value> -->
+<!-- </property> -->
+<!-- <property> -->
+<!--   <name>solr.auth.password</name> -->
+<!--   <value>HIDDEN</value> -->
+<!-- </property> -->
 
 </configuration>
