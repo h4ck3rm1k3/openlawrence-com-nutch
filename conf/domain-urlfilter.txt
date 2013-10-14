@@ -15,3 +15,4 @@
 
 # config file for urlfilter-domain plugin
 yellowpages.com
+www.yellowpages.com

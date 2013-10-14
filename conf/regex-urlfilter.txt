@@ -41,7 +41,9 @@
 -^http://www.lawrencechamber.com/CWT/External/WCPages/WCDirectory/DirectoryEmailForm
 
 # accept anything in lawwence ks yp
++http://www.yellowpages.com/lawrence-ks.*
++https://www.yellowpages.com/lawrence-ks.*
 +http://www.yellowpages.com/lawrence-ks
 
--.*
+#-.*
 
