@@ -11,7 +11,7 @@
 </property>
 <property>
     <name>plugin.includes</name>
-    <value>protocol-httpclient|urlfilter-domain|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+    <value>urlfilter-domainblacklist|protocol-httpclient|urlfilter-domain|urlfilter-regex|parse-(html|tika)|index-(basic|anchor)|indexer-solr|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
     <!--
        see here, replace http with httpclient 
        https://wiki.apache.org/nutch/HttpAuthenticationSchemes
@@ -110,7 +110,7 @@ default * at the end of the list. E.g.: BlurflDev,Blurfl,*
 
 <property>
   <name>solr.server.url</name>
-  <value>https://www.openlawrence.com/solr/</value>
+  <value>https://openlawrence.com/solr/</value>
 </property>
 
 
@@ -123,6 +123,15 @@ default * at the end of the list. E.g.: BlurflDev,Blurfl,*
    secrets being read in, but not checked in
  -->
 &secrets;
+
+ <property> 
+   <name>solr.auth.username</name> 
+   <value>admin</value> 
+ </property> 
+ <property> 
+   <name>solr.auth.password</name> 
+   <value>s0lar3clipse</value> 
+ </property> 
 
 <!-- <property> -->
 <!--   <name>solr.auth.username</name> -->

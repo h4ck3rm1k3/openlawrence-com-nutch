@@ -21,5 +21,5 @@ dump:
 	$(NUTCH)  readlinkdb crawl/linkdb -dump dump
 
 index: 
-	$(NUTCH) solrindex http://www.openlawrence.com:8983/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
+	$(NUTCH) solrindex https://openlawrence.com/solr/ crawl/crawldb  -linkdb crawl/linkdb  ./crawl/segments/*
 
