@@ -14,3 +14,4 @@
 # limitations under the License.
 
 # config file for urlfilter-domainblacklist plugin
+freepages.history.rootsweb.ancestry.com
